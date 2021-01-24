@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../password-manager-start" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +73,8 @@
       <workItem from="1610401932581" duration="3099000" />
       <workItem from="1610585091141" duration="594000" />
       <workItem from="1611104506174" duration="1686000" />
+      <workItem from="1611511216058" duration="650000" />
+      <workItem from="1611511957620" duration="1655000" />
     </task>
     <servers />
   </component>
